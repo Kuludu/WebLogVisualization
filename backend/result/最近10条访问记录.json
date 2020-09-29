@@ -1,0 +1,12 @@
+[
+[["2019-01-04 17:44:26"],["172.20.4.1"],["GET"],["http://xxx.xxx.edu.cn/loginAction.do"],[200],["Chrome Mobile WebView"],["Android"]],
+[["2019-01-04 17:44:26"],["172.20.4.1"],["POST"],["http://xxx.xxx.edu.cn/loginAction.do"],[200],["Chrome Mobile WebView"],["Android"]],
+[["2019-01-04 17:44:26"],["172.20.4.1"],["GET"],["http://xxx.xxx.edu.cn/menu/top.jsp "],[200],["Chrome Mobile WebView"],["Android"]],
+[["2019-01-04 17:44:26"],["172.20.4.1"],["GET"],["http://xxx.xxx.edu.cn/outlineAction.do"],[404],["Chrome Mobile WebView"],["Android"]],
+[["2019-01-04 17:44:28"],["172.20.4.1"],["GET"],["-"],[200],["curl"],["Other"]],
+[["2019-01-04 17:44:28"],["172.20.4.1"],["POST"],["http://xxx.xxx.edu.cn/xkAction.do"],[200],["IE"],["Windows"]],
+[["2019-01-04 17:44:30"],["172.20.4.1"],["GET"],["http://xxx.xxx.edu.cn/menu/menu.jsp"],[302],["Chrome Mobile WebView"],["Android"]],
+[["2019-01-04 17:44:30"],["172.20.4.1"],["GET"],["http://xxx.xxx.edu.cn/menu/menu.jsp"],[200],["Chrome Mobile WebView"],["Android"]],
+[["2019-01-04 17:44:30"],["172.20.4.1"],["GET"],["http://xxx.xxx.edu.cn/xkAction.do"],[200],["MiuiBrowser"],["Android"]],
+[["2019-01-04 17:44:34"],["172.20.4.1"],["GET"],["http://xxx.xxx.edu.cn/menu/menu.jsp"],[200],["Chrome Mobile WebView"],["Android"]]
+]

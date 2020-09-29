@@ -28,7 +28,5 @@
 
 ![https://github.com/Kuludu/WebLogVisualization/raw/master/img/page.png](https://github.com/Kuludu/WebLogVisualization/raw/master/img/page.png)
 
-***
 
-*示例数据及数据处理模块将在数据脱敏完成后上传。*
 
